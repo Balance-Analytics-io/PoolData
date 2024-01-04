@@ -1,28 +1,22 @@
 {
-  "serial": 870,
-  "pool": {
-    "id": "a43ceac028a673e9f8611de0f683c70fdcadde560f28c2fb8cfabc81",
-    "country": "US",
-    "status": "active",
-    "contact": {
-      "primary": "twitter",
-      "email": "support@balanceanalytics.io",
-      "facebook": "",
-      "github": "",
-      "feed": "",
-      "telegram": "",
-      "twitter": "BalanceData22"
-    },
-    "media_assets": {
-      "icon_png_64x64": "https://github.com/Balance-Analytics-io/PoolData/blob/main/ba_logo_64.png",
-      "logo_png": "https://github.com/Balance-Analytics-io/PoolData/blob/main/ba_header_logo.png",
-      "logo_svg": "https://github.com/Balance-Analytics-io/PoolData/blob/main/ba_logo_svg.svg",
-      "color_fg": "",
-      "color_bg": ""
-    },
-    "itn": {
-      "owner": "",
-      "witness": ""
+    "info": {
+        "url_png_icon_64x64": "https://github.com/Balance-Analytics-io/PoolData/blob/main/ba_logo_64.png",
+        "url_png_logo": "https://github.com/Balance-Analytics-io/PoolData/blob/main/ba_header_logo.png",
+        "location": "",
+        "social": {
+            "twitter_handle": "BalanceData22",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
     }
-  }
 }
